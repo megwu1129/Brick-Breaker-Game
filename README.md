@@ -2,7 +2,7 @@
 
 ## Introduction
 The famous breakout game is designed for users to move the paddle, not lose the ball, and break the bricks to win the game.
-To start the game, the users have to click the mouse first. The users would have 3 lives to lose, if all lives are used, the game would be over.
+To start the game, the users have to click the mouse first. The score board would be calculating the score along the way. The users would have 3 lives to lose, if all lives are used, the game would be over.
 
 
 ### start the game
