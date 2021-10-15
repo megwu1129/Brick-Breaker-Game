@@ -11,3 +11,5 @@ To start the game, the users have to click the mouse first. The score board woul
 
 ### The user lost 3 lives and the game will terminate.
 ![messageImage_1634319328819](https://user-images.githubusercontent.com/73263355/137530674-93e3385e-1458-4dcc-9a8f-6b1362695382.jpg)
+
+## The graphic interface was written by using the library tkinter
