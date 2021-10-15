@@ -1,1 +1,3 @@
-# Breakout-Game-Project-
+# Breakout Game Project
+
+## Introduction
